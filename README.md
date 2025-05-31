@@ -22,6 +22,7 @@ Here’s how I built and completed the project step by step:
 
 1. **📥 Data Collection**  
    - Downloaded the dataset from Kaggle: [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+  📓 **Click here to open the full Jupyter Notebook:** [healthcare_analysis.ipynb](./healthcare_analysis.ipynb)
 
 2. **📁 Project Setup**  
    - Created folders for raw data, notebooks, visuals, and scripts  
